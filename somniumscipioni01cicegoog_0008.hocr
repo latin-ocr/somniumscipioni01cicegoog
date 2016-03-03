@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./somniumscipioni01cicegoog_0008.png"; bbox 0 0 3467 5317; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 441 4496 1419 4616">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 441 4496 1419 4616">
+     <span class='ocr_line' id='line_1_1' title="bbox 817 4496 1033 4536; baseline 0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 817 4496 898 4535; x_wconf 71' lang='lat' dir='ltr'><strong>Am</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 912 4496 1033 4536; x_wconf 68' lang='lat' dir='ltr'><strong>mlum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 441 4523 1419 4616; baseline -0.005 -9"><span class='ocrx_word' id='word_1_3' title='bbox 441 4566 717 4609; x_wconf 72' lang='lat' dir='ltr'><strong>Elecflmszmcn</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 733 4567 790 4607; x_wconf 84' lang='lat' dir='ltr'><strong>DES</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 805 4523 1172 4616; x_wconf 57' lang='lat' dir='ltr'>UBERSETZUNGS’REOHTS.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1189 4565 1419 4607; x_wconf 73' lang='lat' dir='ltr'><strong>VORBEHAL&#39;PEN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1738 5317">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1738 5317">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1738 5317; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1738 5317; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
